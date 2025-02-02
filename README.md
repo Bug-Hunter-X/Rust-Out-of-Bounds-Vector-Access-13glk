@@ -1,0 +1,1 @@
+This repository contains a simple Rust program that demonstrates an out-of-bounds vector access error.  The program attempts to access an element beyond the bounds of a vector, causing a runtime panic.  A solution is provided that demonstrates safe handling of potential out-of-bounds errors using the `.get()` method and pattern matching.
